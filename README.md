@@ -43,6 +43,8 @@ I switched to Chrome and downloaded the extension, then everything works like a 
 
 https://chrome.google.com/webstore/detail/janus-webrtc-screensharin/hapfgfdkleiggjjpfpenajgdnfckjpaj
 
+Reference: https://support.offensive-security.com/proctoring-tool-student-manual/
+
 #### 5. Be good in privilege escalation
 Privilege escalation is the thing that will f*ck you up in the exam. I failed to privesc both windows machines in the exam.
 
