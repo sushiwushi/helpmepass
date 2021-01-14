@@ -49,7 +49,3 @@ Reference: https://support.offensive-security.com/proctoring-tool-student-manual
 Privilege escalation is the thing that will f*ck you up in the exam. I failed to privesc both windows machines in the exam.
 
 Don't follow my footsteps.
-
-#### 6. If you have any questions, please join my Discord server and I'll answer there.
-
-https://discord.gg/cJhHNk5
